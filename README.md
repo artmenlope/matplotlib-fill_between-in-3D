@@ -35,7 +35,7 @@ fill_between_3d(ax, *set1, *set2, mode = 1)
 plt.show()
 ``` 
 
-<img src="https://github.com/artmenlope/matplotlib-s-fill_between-in-3D/blob/master/example1.svg" width="50%">
+<img src="https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/example1.svg" width="50%">
 
 ### Example 2
 
@@ -58,7 +58,7 @@ fill_between_3d(ax, *set1, *set2, mode = 1)
 plt.show()
 ```
 
-<img src="https://github.com/artmenlope/matplotlib-s-fill_between-in-3D/blob/master/example2.svg" width="50%">
+<img src="https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/example2.svg" width="50%">
 
 Adding 
 
@@ -70,5 +70,5 @@ ax.plot_surface(X, Y, Z, color='darkorange', alpha=0.8)
 ```
 to the code of this example results in: 
 
-<img src="https://github.com/artmenlope/matplotlib-s-fill_between-in-3D/blob/master/example2b.svg" width="50%">
+<img src="https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/example2b.svg" width="50%">
 
