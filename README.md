@@ -1,4 +1,8 @@
 # Matplotlib's _fill_between_ in 3D
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/LICENSE.md)
+![Last Commit](https://img.shields.io/github/last-commit/artmenlope/matplotlib-fill_between-in-3D)
+
 The purpose of this repository is to show an example of a way of bringing the Python 3 _matplotlib.pyplot.fill_between_ function to 3D plots.
 
 The main _fill_between_3d_ function can be found in the _FillBetween3d.py_ file of this repository.
