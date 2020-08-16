@@ -5,7 +5,7 @@
 
 The purpose of this repository is to show an example of a way of bringing the Python 3 _matplotlib.pyplot.fill_between_ function to 3D plots.
 
-The main _fill_between_3d_ function can be found in the _FillBetween3d.py_ file of this repository.
+The main _fill_between_3d_ function can be found in the [_FillBetween3d.py_](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/FillBetween3d.py) file of this repository.
 
 ## Examples of use:
 
