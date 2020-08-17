@@ -72,7 +72,7 @@ The result is
 
 ### Example 2
 
-This second example shows how the `fill_between_3d` function fills the area between two arbitrary lines laying in the 3d space.
+This second and simpler example shows how the `fill_between_3d` function fills the area between two arbitrary lines laying in the 3d space.
 
 ```python
 x = np.linspace(-1,1,100)
