@@ -15,7 +15,7 @@ You can see the images of this README file displayed together at the [image gall
   * [Example 2](#Example-2)
   * [Example 3](#Example-3)
   
----
+
 
 ## Examples of use:
 
@@ -75,9 +75,10 @@ plt.show()
 
 The result is
 
-<p align="center">
-<img src="https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example1.svg" width="60%">
-</p>
+
+![](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example1.svg) <br> With `mode = 1`|  ![](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example1b.svg) <br> With `mode = 2`
+| :-------------: | :-------------: |
+
 
 
 ### Example 2
@@ -143,3 +144,5 @@ to the code of this example results in:
 <p align="center">
 <img src="https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example3b.svg" width="60%">
 </p>
+
+---
