@@ -76,7 +76,7 @@ plt.show()
 The result is
 
 
-![](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example1.svg) <br> With `mode = 1`|  ![](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example1b.svg) <br> With `mode = 2`
+![](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example1.svg) <br> `mode = 1`|  ![](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/images/example1b.svg) <br> `mode = 2`
 | :-------------: | :-------------: |
 
 
