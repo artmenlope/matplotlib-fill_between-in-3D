@@ -1,3 +1,11 @@
+*News from Matplotlib's 3.10 Release Notes (Dec 13, 2024):* <br>
+
+An improved version of this method has been added to Matplotlib by the community.
+
+>The new method Axes3D.fill_between allows to fill the surface between two 3D lines with polygons. 
+
+You can read the official release notes [here](https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.10.0.html#fill-between-3d-lines) and read the documentation [here](https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.fill_between.html#mpl_toolkits.mplot3d.axes3d.Axes3D.fill_between).
+
 # Matplotlib's _fill_between_ in 3D
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/artmenlope/matplotlib-fill_between-in-3D/blob/master/LICENSE.md)
